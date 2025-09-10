@@ -1,4 +1,4 @@
-# XPTrackerGUI# XPTrackerGUI (Java Swing)
+# XPTrackerGUI (Java Swing)
 
 A lightweight desktop app that turns your study/coding/writing/workout minutes into **XP** with a **Level** and **progress bar**. You can add sessions manually or use a single-category **live timer** (Start/Pause, Stop & Add). Sessions can be **saved** to a plain text file and the **History** view compiles all-time totals per user.
 
