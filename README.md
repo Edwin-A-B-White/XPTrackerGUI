@@ -13,7 +13,7 @@ A lightweight desktop app that turns your study/coding/writing/workout minutes i
 - **All-Time Stats** (default): Level, total XP, % to next level, XP by category.  
 - **History View**: type a username to compile totals from `xp_log.txt` (includes **unsaved** current session for the current user so the Level matches All-Time).  
 - **Save on Exit**: asks to add timer minutes (if running) and/or save unsaved entries before closing.  
-- **Strict Validation**: manual minutes must be a whole number **1–300** (no “last valid value” surprise).
+- **Strict Validation**: manual minutes must be a whole number **1–300**.
 
 ---
 
